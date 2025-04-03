@@ -8,3 +8,4 @@ for i in range (lenght):
     psw += r.choice (elements)
 
 print (f"Hola tu contraseña ha sido generada: {psw}")
+print ("El programa ha finalizado ")
